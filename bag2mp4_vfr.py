@@ -2,7 +2,7 @@
 """
 Created on Fri Apr 30 15:17:01 2021
 
-@author: admin
+@author: Icarus
 """
 
 import pyrealsense2 as rs
